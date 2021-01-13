@@ -11,6 +11,14 @@
 - [مارک داون](#MD)
 - [اچ تی ام ال - سی اس اس](#HTML)
 
+>ارزیابی ها
+
+##بخش عمومی
+
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/forughiamir/PNU_3991/blob/master/_General/AF_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/forughiamir/PNU_3991/blob/master/_General/AF_GeneralSection_CheckList_AR_3991.pdf)
+
+
 <a name="Course-Table"></a>
 ## روز و ساعت ارائه دروس
 
